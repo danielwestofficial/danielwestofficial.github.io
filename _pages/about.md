@@ -24,12 +24,8 @@ See the [Projects](/portfolio/) page for full details.
 I hold a Master’s degree in Systems and Electrical Engineering and bring a background in engineering education, embedded systems, and algorithm development.
 
 You can find my full [CV here](/cv/) and [connect with me on LinkedIn](https://www.linkedin.com/in/danielwestofficial/).
+Looking to collaborate or ask about my projects? [Get in touch via email](mailto:danielwestofficial@gmail.com).
 
 ---
 
-### 💡 About This Site
-This website is powered by [Jekyll](https://jekyllrb.com/) using the [AcademicPages template](https://github.com/academicpages/academicpages.github.io) — a clean, flexible format for publishing technical content and maintaining a version-controlled portfolio.
 
----
-
-Looking to collaborate or ask about my projects? [Get in touch via email](mailto:daniel@example.com).
