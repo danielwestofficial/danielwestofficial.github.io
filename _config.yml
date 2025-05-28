@@ -22,7 +22,7 @@ repository               : "danielwestofficial.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DWest.png"
   name             : "Daniel West"
   pronouns         : "he/him"  
   bio              : "Systems and Electrical Engineer | SDR Radar | DSP | MATLAB | Embedded Systems"
