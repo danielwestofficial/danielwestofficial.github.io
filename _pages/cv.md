@@ -14,6 +14,7 @@ Education
 * M.S.E in Systems & Electrical Engineering, Oregon Institute of Technology, 2025
 * B.S. in Electronics Engineering Technology, Oregon Institute of Technology, 2025
 * A.A.S. in Electronics Technology, Rogue Community College, 2020
+
 Professional Experience
 ======
 **Graduate Teaching Assistant**  
