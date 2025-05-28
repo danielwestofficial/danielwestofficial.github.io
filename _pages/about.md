@@ -23,7 +23,7 @@ See the [Projects](/portfolio/) page for full details.
 ### 📄 Resume and Background
 I hold a Master’s degree in Systems and Electrical Engineering and bring a background in engineering education, embedded systems, and algorithm development.
 
-You can find my full [CV here](/cv/) and [connect with me on LinkedIn](https://www.linkedin.com/in/danielwestofficial).
+You can find my full [CV here](/cv/) and [connect with me on LinkedIn](https://www.linkedin.com/in/danielwestofficial/).
 
 ---
 
